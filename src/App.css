@@ -1,0 +1,26 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  width: 600px;
+  height: 100%;
+  background-color: grey;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+.quote{
+  text-align: left;
+  height: 100px;
+}
+button{
+  padding: 10px;
+  background-color: #fff;
+  color: grey;
+  border: none;
+  width: 50%;
+  border-radius: 10px;
+}
